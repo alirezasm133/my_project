@@ -25,7 +25,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px;
+    padding: 30px;
 }
 .password{
     display: block;
